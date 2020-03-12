@@ -12,6 +12,18 @@ main {
     margin: 0 auto;
 }
 
+.form-container {
+    margin: 2em 1em;
+}
+
+.date--input-container {
+    display: inline-block;
+    position: relative;
+}
+
 .where-am-i {
     border: 1px solid red;
+}
+.mandatory {
+  color: red;
 }
