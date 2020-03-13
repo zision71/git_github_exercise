@@ -8,15 +8,21 @@ This exercise is based around a single HTML page that makes use of separate CSS,
 
 ### Step 1. Fork the repository
 
-First, [fork](https://help.github.com/articles/fork-a-repo) this repository by clicking the fork button.
+First, [fork](https://help.github.com/articles/fork-a-repo) this repository to your own GitHub account by clicking the fork button.
 
-![fork-repo](assets/fork.png)``
+- [https://github.com/CodeYourFuture/git_github_exercise](https://github.com/CodeYourFuture/git_github_exercise)
+
+![fork-repo](assets/fork.png)
 
 ### Step 2. Clone your fork
 
-Next, clone your fork to your local machine.
+Next, clone your fork from your GitHub repo to your local machine using 
 
-![clone-repo](https://cloud.githubusercontent.com/assets/40461/10177745/b394027e-66f3-11e5-8cc5-20c01c9a7785.png)
+```bash
+  git clone [URL to your repo]
+```
+
+![clone-repo](assets/clone.png)
 
 ### Step 3. Create your directory
 
@@ -51,13 +57,13 @@ At the end of each day (or first thing each morning), ensure all of your homewor
 
 Then create a [pull request](https://help.github.com/articles/using-pull-requests) from your fork. This will automatically include all the commits you have made to the repository.
 
-![pull-request](https://cloud.githubusercontent.com/assets/40461/10177944/ceec1308-66f4-11e5-8603-b918db3ca45e.png)
+![pull-request](assets/pull_request.png)
 
 ### Step 3. Add a title and comment
 
-Add the title of homework to the pull request, e.g. "Javascript calculator w01d02".
+Add the title of exercise to the pull request, e.g. "Git/GitHub Exercise".
 
-Then add a comment to the pull request. Every comment should follow this format:
+Then add a comment to the pull request. Your comment should follow this format:
 
 ```
 * Comfortability [0 to 5]
@@ -67,6 +73,6 @@ Then add a comment to the pull request. Every comment should follow this format:
 * Any other comments
 ```
 
-The instructional team will then review your pull request, and use the main repository as the source to monitor your work. If you do not issue a pull request, it will appear to us that you have not completed the assignments for the previous day, and it will be recorded as such.
+The volunteer team will then review your pull request, and use the main repository as the source to monitor your work.
 
-If you have any problems with submitting assignments, ask the instructional staff to help you.
+If you have any problems with submitting assignments, ask a volunteer to help you.
