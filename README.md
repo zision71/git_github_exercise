@@ -93,4 +93,4 @@ The volunteer team will then review your pull requests and decide whether to acc
 
 If you have any problems with submitting assignments, ask a volunteer to help you.
 
-
+## Merging Changes from the Master Repo Back to your Own Version
