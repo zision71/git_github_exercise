@@ -10,13 +10,13 @@ This exercise is based around a single HTML page that makes use of separate CSS,
 
 First, [fork](https://help.github.com/articles/fork-a-repo) this repository by clicking the fork button.
 
-![folk-repo](https://cloud.githubusercontent.com/assets/40461/10177089/43f10122-66f0-11e5-86b6-e4a6d23160f7.png)
+![fork-repo](assets/fork.png)``
 
 ### Step 2. Clone your fork
 
-Next, clone your fork to your machine.
+Next, clone your fork to your local machine.
 
-![clone](https://cloud.githubusercontent.com/assets/40461/10177745/b394027e-66f3-11e5-8cc5-20c01c9a7785.png)
+![clone-repo](https://cloud.githubusercontent.com/assets/40461/10177745/b394027e-66f3-11e5-8cc5-20c01c9a7785.png)
 
 ### Step 3. Create your directory
 
