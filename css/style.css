@@ -17,6 +17,10 @@ footer {
   margin: 2em 1em;
 }
 
+#register {
+  padding: 1em;
+}
+
 .date--input-container {
   display: inline-block;
   position: relative;
